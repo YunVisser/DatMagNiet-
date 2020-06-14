@@ -1,4 +1,4 @@
-# DatMagNiet-
+# DatMagNiet!
 
 //Code 1 meet minimale gewicht
 
