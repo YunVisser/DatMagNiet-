@@ -1,6 +1,6 @@
 # DatMagNiet-
 
-//Code 1 meet triggerpoint
+//Code 1 meet minimale gewicht
 
 
 #include <Servo.h> //library servo
